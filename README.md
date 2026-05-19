@@ -11,8 +11,8 @@
 <br/><br/>
 
 <!-- Profile Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/ChallaNagaSaiLakshmiNaveen?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Naveen-Sai-25)
-[![Profile Views](https://komarev.com/ghpvc/?username=ChallaNagaSaiLakshmiNaveen&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Naveen-Sai-25)
+[![GitHub followers](https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Naveen-Sai-25)
+[![Profile Views](https://komarev.com/ghpvc/?username=Naveen-Sai-25&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Naveen-Sai-25)
 [![CGPA](https://img.shields.io/badge/CGPA-8.32%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/Naveen-Sai-25)
 
 </div>
@@ -24,7 +24,7 @@
 <img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 ```verilog
-module Challa Naga sai Lakshmi Naveen (
+module Challa_Naga_sai_Lakshmi_Naveen (
   input  wire curiosity,
   input  wire dedication,
   output reg  innovation
@@ -64,7 +64,7 @@ endmodule
 
 | 🎓 University | 📍 Location | 📈 CGPA | 🔭 Focus |
 |:---:|:---:|:---:|:---:|
-| Aditya University, Surampalem | Peddapuram, AP, India | ** 8.32/ 10** | VLSI · Embedded · IoT |
+| Aditya University, Surampalem | Peddapuram, AP, India | **8.32/10** | VLSI · Embedded · IoT |
 | B.Tech ECE (2024–2028) | Andhra Pradesh | Batch of 2028 | RTL · Digital Design |
 
 </div>
