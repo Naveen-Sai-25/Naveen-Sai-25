@@ -11,9 +11,9 @@
 <br/><br/>
 
 <!-- Profile Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/jujjarapurakesh?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/jujjarapurakesh)
-[![Profile Views](https://komarev.com/ghpvc/?username=jujjarapurakesh&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/jujjarapurakesh)
-[![CGPA](https://img.shields.io/badge/CGPA-9.18%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/jujjarapurakesh)
+[![GitHub followers](https://img.shields.io/github/followers/ChallaNagaSaiLakshmiNaveen?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Naveen-Sai-25)
+[![Profile Views](https://komarev.com/ghpvc/?username=jujjarapurakesh&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Naveen-Sai-25)
+[![CGPA](https://img.shields.io/badge/CGPA-8.32%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/Naveen-Sai-25)
 
 </div>
 
@@ -210,8 +210,7 @@ endmodule
 | 02 | **Digital IC Design Fundamentals v2.0** | Cadence | ![Cadence](https://img.shields.io/badge/Cadence-Certified-0066ff?style=flat-square&labelColor=0d1117) |
 | 03 | **Verilog Language and Application v28.0** | Cadence | ![Cadence](https://img.shields.io/badge/Cadence-Certified-7b2fff?style=flat-square&labelColor=0d1117) |
 | 04 | **Certified in C Programming** | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&labelColor=0d1117&logo=cisco&logoColor=white) |
-| 05 | **Excel Associate Specialist** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-217346?style=flat-square&labelColor=0d1117&logo=microsoftexcel&logoColor=white) |
-| 06 | **Power BI Specialist** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-F2C811?style=flat-square&labelColor=0d1117&logo=powerbi&logoColor=0d1117) |
+| 05 | **Power BI Specialist** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-F2C811?style=flat-square&labelColor=0d1117&logo=powerbi&logoColor=0d1117) |
 
 </div>
 
@@ -248,10 +247,10 @@ endmodule
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveensai_25/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-90%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 [![HackerRank](https://img.shields.io/badge/HackerRank-3★_Rated-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/naveen_sai_25)
 [![HDLBits](https://img.shields.io/badge/HDLBits-80%2B_Solved-00f5ff?style=for-the-badge&logo=verilog&logoColor=0d1117)](https://hdlbits.01xz.net)
 
 </div>
