@@ -1,24 +1,38 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Challa%20Naga sai lakshmi Naveen &fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descColor=7eb8d4&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=VLSI+Design+Enthusiast;Embedded+Systems+Engineer;IoT+Developer;RTL+%26+Digital+Design;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Innovator" alt="Typing SVG" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&height=80&lines=Challa+Naga+Sai+Lakshmi+Naveen" 
+alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<h3>Electronics & Communication Engineering Student</h3>
 
-<!-- Profile Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Naveen-Sai-25)
-[![Profile Views](https://komarev.com/ghpvc/?username=Naveen-Sai-25&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Naveen-Sai-25)
-[![CGPA](https://img.shields.io/badge/CGPA-8.32%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/Naveen-Sai-25)
+<br>
+
+<a href="https://git.io/typing-svg">
+<img 
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=VLSI+Design+Enthusiast;RTL+Designer;Embedded+Systems+Developer;IoT+Innovator;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Engineer" 
+alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Naveen-Sai-25">
+<img src="https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github"/>
+</a>
+
+<a href="https://github.com/Naveen-Sai-25">
+<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/Naveen-Sai-25">
+<img src="https://img.shields.io/badge/CGPA-8.32%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia"/>
+</a>
 
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
