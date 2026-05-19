@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jujjarapu%20Rakesh&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descColor=7eb8d4&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Challa%20Naga sai lakshmi Naveen &fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=60&descColor=7eb8d4&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
 
 <!-- Profile Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/ChallaNagaSaiLakshmiNaveen?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)](https://github.com/Naveen-Sai-25)
-[![Profile Views](https://komarev.com/ghpvc/?username=jujjarapurakesh&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Naveen-Sai-25)
+[![Profile Views](https://komarev.com/ghpvc/?username=ChallaNagaSaiLakshmiNaveen&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Naveen-Sai-25)
 [![CGPA](https://img.shields.io/badge/CGPA-8.32%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia)](https://github.com/Naveen-Sai-25)
 
 </div>
@@ -248,8 +248,8 @@ endmodule
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveensai_25/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-90%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-3★_Rated-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-90%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/naveensai_25)
+[![HackerRank](https://img.shields.io/badge/HackerRank-3★_Rated-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/naveensaichalla)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/naveen_sai_25)
 [![HDLBits](https://img.shields.io/badge/HDLBits-80%2B_Solved-00f5ff?style=for-the-badge&logo=verilog&logoColor=0d1117)](https://hdlbits.01xz.net)
 
