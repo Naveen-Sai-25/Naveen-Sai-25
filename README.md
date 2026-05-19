@@ -111,7 +111,7 @@ endmodule
 ### 📡 IoT & Embedded Systems Intern
 **Eduexpose** &nbsp;|&nbsp; `May 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-Completed-00f5ff?style=flat-square&labelColor=0d1117)
+![Internship](https://img.shields.io/badge/Status-InProgress-00f5ff?style=flat-square&labelColor=0d1117)
 ![Domain](https://img.shields.io/badge/Domain-IoT%20%26%20Embedded-0066ff?style=flat-square&labelColor=0d1117)
 
 **Key Work:**
@@ -126,7 +126,7 @@ endmodule
 ### 🏛️ Summer Internship — Electronics
 **IIT Guwahati** &nbsp;|&nbsp; `June 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-Completed-00f5ff?style=flat-square&labelColor=0d1117)
+![Internship](https://img.shields.io/badge/Status-InProgress-00f5ff?style=flat-square&labelColor=0d1117)
 ![Domain](https://img.shields.io/badge/Domain-Electronics-7b2fff?style=flat-square&labelColor=0d1117)
 
 **Key Work:**
