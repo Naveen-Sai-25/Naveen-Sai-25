@@ -70,11 +70,14 @@ endmodule
 ---
 
 <div align="center">
-<div align="center">
+  
+🐍 Contribution Snake Animation
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-</div>
+---
 
 ### 📊 Quick Stats
 
