@@ -34,9 +34,6 @@ alt="Typing SVG"/>
 
 ---
 ## 🧑‍💻 About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
 ```verilog
 module Challa_Naga_sai_Lakshmi_Naveen (
   input  wire curiosity,
@@ -73,6 +70,11 @@ endmodule
 ---
 
 <div align="center">
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
 
 ### 📊 Quick Stats
 
