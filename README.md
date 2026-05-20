@@ -267,15 +267,29 @@ endmodule
 [![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/naveen_sai_25)
 [![HDLBits](https://img.shields.io/badge/HDLBits-80%2B_Solved-00f5ff?style=for-the-badge&logo=verilog&logoColor=0d1117)](https://hdlbits.01xz.net)
 
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=0066ff&text_color=7eb8d4&ring_color=00f5ff&count_private=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7eb8d4&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Sai-25&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=0066ff&currStreakNum=7eb8d4&sideNums=7eb8d4&currStreakLabel=00f5ff&sideLabels=4a7080&dates=4a7080" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Sai-25&bg_color=0d1117&color=00f5ff&line=0066ff&point=00f5ff&area=true&area_color=0066ff&hide_border=true" />
+
 </div>
 
 ---
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=0066ff&text_color=7eb8d4&ring_color=00f5ff&count_private=true" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7eb8d4&langs_count=8" />
-</div>
-
 ## 📬 Connect With Me
 
 <div align="center">
