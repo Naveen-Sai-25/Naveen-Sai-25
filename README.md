@@ -5,7 +5,11 @@
 src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&height=80&lines=Challa+Naga+Sai+Lakshmi+Naveen" 
 alt="Typing SVG"/>
 </a>
-
+<!-- <p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Challa%20Naveen%20Sai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+  />
+</p> -->
 <h3>Electronics & Communication Engineering Student</h3>
 
 <br>
