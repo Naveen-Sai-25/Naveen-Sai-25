@@ -280,9 +280,9 @@ endmodule
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=0066ff&text_color=7eb8d4&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true" height="180em"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7eb8d4&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
 
 </div>
 
