@@ -254,7 +254,7 @@ endmodule
 <sub>LeetCode + GeeksforGeeks</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/80+-HDLBits_Problems-0066ff?style=for-the-badge&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/115+-HDLBits_Problems-0066ff?style=for-the-badge&labelColor=0d1117" /><br/>
 <sub>Verilog HDL Exercises</sub>
 </td>
 <td align="center" width="25%">
@@ -274,11 +274,11 @@ endmodule
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveensai_25/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-180%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naveensai_25/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-90%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/naveensai_25)
 [![HackerRank](https://img.shields.io/badge/HackerRank-3★_Rated-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/naveensaichalla)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/naveen_sai_25)
-[![HDLBits](https://img.shields.io/badge/HDLBits-80%2B_Solved-00f5ff?style=for-the-badge&logo=verilog&logoColor=0d1117)](https://hdlbits.01xz.net)
+[![HDLBits](https://img.shields.io/badge/HDLBits-115%2B_Solved-00f5ff?style=for-the-badge&logo=verilog&logoColor=0d1117)](https://hdlbits.01xz.net)
 
 ## 📈 GitHub Statistics
 
