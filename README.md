@@ -24,15 +24,15 @@ alt="Typing SVG"/>
 <br><br>
 
 <a href="https://github.com/Naveen-Sai-25">
-<img src="https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=0F172AA&labelColor=0F172A&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Naveen-Sai-25">
-<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&style=for-the-badge&color=2563EB&labelColor=0F172A&label=PROFILE+VIEWS"/>
 </a>
 
 <a href="https://github.com/Naveen-Sai-25">
-<img src="https://img.shields.io/badge/CGPA-8.32%2F10-00f5ff?style=for-the-badge&labelColor=0d1117&logo=academia"/>
+<img src="https://img.shields.io/badge/CGPA-8.32%2F10-3B82F6?style=for-the-badge&labelColor=0F172A&logo=academia&logoColor=white"/>
 </a>
 
 </div>
