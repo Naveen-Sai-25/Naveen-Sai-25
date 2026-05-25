@@ -105,22 +105,24 @@ endmodule
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 [![Verilog](https://img.shields.io/badge/Verilog_HDL-FF6B35?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 
-### 🛠️ Tools & EDA Platforms
+### 🛠️ SoftwareTools & EDA Platforms
 
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
 [![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vivado.html)
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![EDA Playground](https://img.shields.io/badge/EDA_Playground-6A1B9A?style=for-the-badge&logo=verilog&logoColor=white)](https://www.edaplayground.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Eagle PCB](https://img.shields.io/badge/Eagle_PCB-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
+[![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logo=electronics&logoColor=white)](https://www.labcenter.com/)
+[![PSpice](https://img.shields.io/badge/PSpice-ED1C24?style=for-the-badge&logo=circuitverse&logoColor=white)](https://www.pspice.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ### 🔬 Domains & Technologies
 
 [![VLSI](https://img.shields.io/badge/VLSI_Design-00f5ff?style=for-the-badge&logo=microchip&logoColor=0d1117)](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration)
-[![RTL Design](https://img.shields.io/badge/RTL_Design-0066ff?style=for-the-badge&logo=circuitverse&logoColor=white)](https://en.wikipedia.org/wiki/Register-transfer_level)
+[![RTL Design&Verification](https://img.shields.io/badge/RTL_Design-0066ff?style=for-the-badge&logo=circuitverse&logoColor=white)](https://en.wikipedia.org/wiki/Register-transfer_level)
 [![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27AE60?style=for-the-badge&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
 [![IoT](https://img.shields.io/badge/IoT_Development-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
-[![Digital Design](https://img.shields.io/badge/Digital_Design-7B2FFF?style=for-the-badge&logo=semiconductor&logoColor=white)](https://en.wikipedia.org/wiki/Digital_electronics)
-[![LoRa](https://img.shields.io/badge/LoRa_Protocol-00BCD4?style=for-the-badge&logo=lora&logoColor=white)](https://en.wikipedia.org/wiki/LoRa)
-
 </div>
 
 ---
