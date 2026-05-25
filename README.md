@@ -7,8 +7,8 @@ alt="Typing SVG"/>
 </a> -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Challa%20Naveen%20Sai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-  />
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Challa%20Naveen%20Sai&desc=VLSI%20Enthusiast%20|%20RTL%20Design%20|%20Digital%20Electronics&descSize=22&descAlignY=60&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+/>
 </p>
 
 <h3>Electronics & Communication Engineering Student</h3>
