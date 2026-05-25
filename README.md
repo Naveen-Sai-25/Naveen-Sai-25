@@ -24,7 +24,7 @@ alt="Typing SVG"/>
 <br><br>
 
 <a href="https://github.com/Naveen-Sai-25">
-<img src="https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=0F172AA&labelColor=0F172A&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=0F172A&labelColor=0F172A&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Naveen-Sai-25">
