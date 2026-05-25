@@ -1,15 +1,16 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
 <img 
 src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&height=80&lines=Challa+Naga+Sai+Lakshmi+Naveen" 
 alt="Typing SVG"/>
-</a>
-<!-- <p align="center">
+</a> -->
+<p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Challa%20Naveen%20Sai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
   />
-</p> -->
+</p>
+
 <h3>Electronics & Communication Engineering Student</h3>
 
 <br>
@@ -105,28 +106,29 @@ endmodule
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 [![Verilog](https://img.shields.io/badge/Verilog_HDL-FF6B35?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 
-### 🛠️ SoftwareTools & EDA Platforms
+---
 
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
+### 🛠️ Software Tools & EDA Platforms
+
 [![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vivado.html)
-[![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![EDA Playground](https://img.shields.io/badge/EDA_Playground-6A1B9A?style=for-the-badge&logo=verilog&logoColor=white)](https://www.edaplayground.com/)
-[![Eagle PCB](https://img.shields.io/badge/Eagle_PCB-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logo=electronics&logoColor=white)](https://www.labcenter.com/)
 [![PSpice](https://img.shields.io/badge/PSpice-ED1C24?style=for-the-badge&logo=circuitverse&logoColor=white)](https://www.pspice.com/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
-### 🔬 Domains & Technologies
-
-[![VLSI](https://img.shields.io/badge/VLSI_Design-00f5ff?style=for-the-badge&logo=microchip&logoColor=0d1117)](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration)
-[![RTL Design&Verification](https://img.shields.io/badge/RTL_Design-0066ff?style=for-the-badge&logo=circuitverse&logoColor=white)](https://en.wikipedia.org/wiki/Register-transfer_level)
-[![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-27AE60?style=for-the-badge&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
-[![IoT](https://img.shields.io/badge/IoT_Development-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
+### 🔬 Domains & Technologies
+
+[![VLSI Design](https://img.shields.io/badge/VLSI_Design-00C2FF?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration)
+[![RTL Design](https://img.shields.io/badge/RTL_Design-0052CC?style=for-the-badge&logo=circuitverse&logoColor=white)](https://en.wikipedia.org/wiki/Register-transfer_level)
+[![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-00838F?style=for-the-badge&logo=logicmonitor&logoColor=white)](https://en.wikipedia.org/wiki/Digital_electronics)
+[![FPGA](https://img.shields.io/badge/FPGA-8E24AA?style=for-the-badge&logo=xilinx&logoColor=white)](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+
+</div>
+
+---
 ## 💼 Internships
 
 <table>
