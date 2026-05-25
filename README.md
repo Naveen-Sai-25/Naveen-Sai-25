@@ -17,7 +17,7 @@ alt="Typing SVG"/>
 
 <a href="https://git.io/typing-svg">
 <img 
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=VLSI+Design+Enthusiast;RTL+Designer;Embedded+Systems+Developer;IoT+Innovator;Verilog+HDL+Programmer;Problem+Solver+%7C+Builder+%7C+Engineer" 
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Aspiring+Design+Verification+Engineer;Verilog+%7C+RTL+Design+%7C+FPGA;VLSI+Design+Enthusiast;Digital+Systems+Developer;Passionate+About+Chip+Design+%26+Verification" 
 alt="Typing SVG"/>
 </a>
 
