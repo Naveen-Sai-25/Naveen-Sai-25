@@ -283,13 +283,13 @@ endmodule
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true" height="180em"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
