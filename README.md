@@ -139,8 +139,8 @@ endmodule
 ### 📡 IoT & Embedded Systems Intern
 **Eduexpose** &nbsp;|&nbsp; `May 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-InProgress-00f5ff?style=flat-square&labelColor=0d1117)
-![Domain](https://img.shields.io/badge/Domain-IoT%20%26%20Embedded-0066ff?style=flat-square&labelColor=0d1117)
+![Internship](https://img.shields.io/badge/Status-InProgress-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-VLSI%20%26%20RTL%20Design-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
 
 **Key Work:**
 - ▸ IoT device integration with sensors & actuators
@@ -154,8 +154,8 @@ endmodule
 ### 🏛️ Summer Internship — Electronics
 **IIT Guwahati** &nbsp;|&nbsp; `June 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-InProgress-00f5ff?style=flat-square&labelColor=0d1117)
-![Domain](https://img.shields.io/badge/Domain-Electronics-7b2fff?style=flat-square&labelColor=0d1117)
+![Internship](https://img.shields.io/badge/Status-InProgress-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-Electronics-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
 
 **Key Work:**
 - ▸ Electronics project development & implementation
