@@ -54,9 +54,10 @@ module Challa_Naga_sai_Lakshmi_Naveen (
 
   // Core Interests
   localparam FOCUS_1  = "VLSI Design";
-  localparam FOCUS_2  = "RTL Development";
-  localparam FOCUS_3  = "Embedded Systems";
-  localparam FOCUS_4  = "IoT Development";
+  localparam FOCUS_2  = "Design & Verification";
+  localparam FOCUS_3  = "Digital Electronics";
+  localparam FOCUS_4  = "FPGA Development";
+  localparam FOCUS_5  = "IoT Development";
 
   always @(*) begin
     if (curiosity && dedication)
