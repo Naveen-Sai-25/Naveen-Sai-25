@@ -314,10 +314,9 @@ endmodule
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Location-Peddapuram,_Andhra_Pradesh,_India-00f5ff?style=flat-square&labelColor=0d1117)
-![University](https://img.shields.io/badge/🎓_University-Aditya_University,_Surampalem-0066ff?style=flat-square&labelColor=0d1117)
-![Open To](https://img.shields.io/badge/🚀_Open_To-Internships_%26_Collaborations-27AE60?style=flat-square&labelColor=0d1117)
-
+![Location](https://img.shields.io/badge/📍_Location-Peddapuram,_Andhra_Pradesh,_India-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
+![University](https://img.shields.io/badge/🎓_University-Aditya_University,_Surampalem-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
+![Open To](https://img.shields.io/badge/🚀_Open_To-Internships_%26_Collaborations-3B82F6?style=flat-square&labelColor=0F172A&logoColor=white)
 </div>
 
 ---
@@ -326,8 +325,7 @@ endmodule
 
 ### 👁️ Visitor Count
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Naveen-Sai-25&label=PROFILE%20VISITORS&labelColor=%230d1117&countColor=%2300f5ff&style=for-the-badge)](https://visitorbadge.io/status?path=ChallaNagaSaiLakshmiNaveen)
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Naveen-Sai-25&label=PROFILE%20VISITORS&labelColor=%230F172A&countColor=%232563EB&style=for-the-badge)](https://visitorbadge.io/status?path=ChallaNagaSaiLakshmiNaveen)
 <br/>
 
 *"The best hardware is the one that makes impossible things possible."*
