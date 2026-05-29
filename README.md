@@ -168,7 +168,6 @@ endmodule
 </table>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -189,7 +188,10 @@ endmodule
 - 💬 Offline peer-to-peer messaging
 - 🖥️ OLED display interface
 
+🔗 [View Project](https://github.com/Naveen-Sai-25/Lora-GPS-Tracker)
+
 </td>
+
 <td width="33%" valign="top">
 
 ### 🔣 K-Map Solver in C
@@ -205,7 +207,10 @@ endmodule
 - 🔄 Auto-grouping algorithm
 - 📐 Digital logic verified
 
+🔗 [View Project](https://github.com/Naveen-Sai-25/K-Map-Solver)
+
 </td>
+
 <td width="33%" valign="top">
 
 ### 😊 Emotion Detection System
@@ -222,16 +227,12 @@ endmodule
 - 😄 6 emotion categories
 - ⚡ Low-latency pipeline
 
+🔗 [View Project](https://github.com/Naveen-Sai-25/emotion-detection-oled)
+
 </td>
 </tr>
 </table>
-
 ---
-
-## 🏅 Certifications
-
-<div align="center">
-
 ## 🏅 Certifications
 
 <div align="center">
