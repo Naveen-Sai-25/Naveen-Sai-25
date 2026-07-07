@@ -139,7 +139,7 @@ endmodule
 ### 📡 IoT & Embedded Systems Intern
 **Eduexpose** &nbsp;|&nbsp; `May 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-InProgress-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
+![Internship](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-IOT%20%26%20Embedded%20System-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
 
 **Key Work:**
