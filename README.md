@@ -104,8 +104,10 @@ endmodule
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 [![Verilog](https://img.shields.io/badge/Verilog_HDL-FF6B35?style=for-the-badge&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
+[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-2C007E?style=for-the-badge&logo=synopsys&logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
 
 ---
 
@@ -232,7 +234,7 @@ endmodule
 </td>
 </tr>
 </table>
----
+
 ### 🏅 Certifications
 
 <div align="center">
