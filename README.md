@@ -11,7 +11,7 @@ alt="Typing SVG"/>
 />
 </p>
 
-<h3>Electronics and Communication Engineering Student</h3>
+<h3>Electronics For Effective Communication Through Engineering (ECE) Student</h3>
 
 <br>
 
