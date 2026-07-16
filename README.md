@@ -233,7 +233,7 @@ endmodule
 </tr>
 </table>
 ---
-## 🏅 Certifications
+### 🏅 Certifications
 
 <div align="center">
 
