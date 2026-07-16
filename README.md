@@ -135,33 +135,33 @@ endmodule
 <table>
 <tr>
 <td width="50%" valign="top">
-
+  
 ### 📡 IoT & Embedded Systems Intern
 **Eduexpose** &nbsp;|&nbsp; `May 2026 – July 2026`
 
 ![Internship](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-IOT%20%26%20Embedded%20System-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-View_Here-059669?style=flat-square&labelColor=0F172A&logo=read-the-docs&logoColor=white)
 
-**Key Work:**
-- ▸ IoT device integration with sensors & actuators
-- ▸ Serial & wireless communication protocols
-- ▸ Hardware debugging & fault isolation
-- ▸ Edge data processing & firmware development
-
+## 🛠️ Tech Stack & Skills Acquired
+* **IoT & Cloud Platforms:** Wokwi Simulator, Node-RED, ThingsBoard, Firebase Cloud, Blynk
+* **Communication Protocols:** MQTT, HTTP, Serial & Wireless Protocols
+* **Hardware & Electronics Concepts:** Sensor Integration, Actuator Control, Wi-Fi MCU Simulation (ESP32)
+* **Software & Firmware:** C/C++ (Arduino Framework), Data Telemetry, API Integration (HTTP/MQTT)
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ Summer Internship — Electronics
+### 🏛️ Summer Internship — Artificial Intelligence and Machine Learning
 **IIT Guwahati** &nbsp;|&nbsp; `June 2026 – July 2026`
 
 ![Internship](https://img.shields.io/badge/Status-InProgress-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-Electronics-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
-
-**Key Work:**
-- ▸ Electronics project development & implementation
-- ▸ System testing, validation & verification
-- ▸ Technical training & research workshops
-- ▸ Documentation & technical presentations
+![Domain](https://img.shields.io/badge/Domain-(AIML)-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-View_Here-059669?style=flat-square&labelColor=0F172A&logo=read-the-docs&logoColor=white)
+## 🛠️ Tech Stack & Skills Acquired
+* **Programming:** Python
+* **Data Science & ML Workflow:** Data Preprocessing, Feature Engineering, Model Training, Evaluation
+* **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, Matplotlib
+* **Hardware/Electronics Concepts:** System testing, validation, and signal/data integration
 
 </td>
 </tr>
