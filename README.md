@@ -11,7 +11,7 @@ alt="Typing SVG"/>
 />
 </p>
 
-<h3>Electronics For Effective Communication Through Engineering (ECE) Student</h3>
+<h3>Electronics For Effective Communication Through Engineering </h3>
 
 <br>
 
@@ -124,11 +124,10 @@ endmodule
 
 ### 🔬 Domains & Technologies
 
-[![VLSI Design](https://img.shields.io/badge/VLSI_Design-00C2FF?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration)
-[![RTL Design](https://img.shields.io/badge/RTL_Design-0052CC?style=for-the-badge&logo=circuitverse&logoColor=white)](https://en.wikipedia.org/wiki/Register-transfer_level)
 [![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-00838F?style=for-the-badge&logo=logicmonitor&logoColor=white)](https://en.wikipedia.org/wiki/Digital_electronics)
+[![RTL Design](https://img.shields.io/badge/RTL_Design-0052CC?style=for-the-badge&logo=circuitverse&logoColor=white)](https://en.wikipedia.org/wiki/Register-transfer_level)
 [![FPGA](https://img.shields.io/badge/FPGA-8E24AA?style=for-the-badge&logo=xilinx&logoColor=white)](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-
+[![VLSI Design](https://img.shields.io/badge/VLSI_Design-00C2FF?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration)
 </div>
 
 ---
