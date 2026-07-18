@@ -413,42 +413,36 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 <div align="center">
 
 <a href="mailto:naveensaichalla@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/naveen-sai-challa-38049632b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Naveen-Sai-25">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://naveen-sai-25.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1f2e&height=1&section=header" width="100%" />
+### ⭐ If you like my work, consider giving my repositories a star!
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&label=Total+Profile+Visitors&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
+<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Designing%20logic%20today%20to%20engineer%20intelligent%20systems%20tomorrow.&author=Challa%20NaveenSai" />
 
-<br/>
+<br><br>
 
 > *"From transistors to systems — every layer of abstraction is an opportunity to innovate."*
 
-<br/>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0080ff,100:0d1117&height=120&section=footer&fontSize=18&fontColor=c9d1d9&animation=fadeIn" width="100%" />
 
@@ -457,5 +451,9 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 ---
 
 <div align="center">
-  <sub>⚡ Built with precision by <strong>Ch Naveen Sai </strong> · ECE · VLSI · Embedded · IoT</sub>
+
+**⚡ Built with precision by Challa Naga Sai Lakshmi Naveen**
+
+*Electronics & Communication Engineering • VLSI • Embedded Systems • IoT • RTL Design*
+
 </div>
