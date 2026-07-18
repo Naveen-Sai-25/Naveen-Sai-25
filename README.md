@@ -93,6 +93,14 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 </div>
 
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Sai-25&bg_color=0d1117&color=00f5ff&line=0066ff&point=00f5ff&area=true&area_color=0066ff&hide_border=true" />
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
