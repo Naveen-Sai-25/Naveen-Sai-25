@@ -99,8 +99,6 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
 <div align="center">
 
 ### 💻 Programming Languages
