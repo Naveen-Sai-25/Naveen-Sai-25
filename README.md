@@ -329,7 +329,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 | Semiconductor 101 v1.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Semiconductor%20101%20v1.0.pdf) |
 | Digital IC Design Fundamentals v2.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Digital%20IC%20Design%20Fundamentals%20v2.0.pdf) |
 | Verilog Language and Application v28.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Verilog%20Language%20and%20Application%20v28.0.pdf) |
-| Certified in C Programming | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&labelColor=0d1117&logo=cisco&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Certified%20in%20C%20Programming.pdf) |
+| Certified in C Programming | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Certified%20in%20C%20Programming.pdf) |
 | Power BI Specialist | Microsoft | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=0d1117) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Power%20BI%20Specialist.pdf) |
 
 ---
