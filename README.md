@@ -63,21 +63,19 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 <!--            SECTION 5 — CONTRIBUTION SNAKE ANIMATION           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 <br>
-
----
 
 ---
 
@@ -162,9 +160,6 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 </div>
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  SECTION 8 — INTERNSHIPS                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💼 Internship Experience
 
@@ -193,89 +188,149 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                SECTION 9 — FEATURED PROJECTS                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>📡 Offline Communication System using LoRa</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-00d4ff?style=flat-square&labelColor=0d1117" />
-      <br/><br/>
-      <p align="left">A LoRa-based emergency communication and GPS tracking system built using <strong>Arduino Uno</strong>, <strong>SX1278 LoRa module</strong>, <strong>Neo-6M GPS</strong>, and an <strong>OLED display</strong>. Designed for offline, infrastructure-free real-time location sharing.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/LoRa-1ABC9C?style=flat-square" />
-        <img src="https://img.shields.io/badge/GPS-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/OLED-8E44AD?style=flat-square" />
-        <img src="https://img.shields.io/badge/IoT-00B4D8?style=flat-square" />
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🧮 K-Map Solver using C</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-00d4ff?style=flat-square&labelColor=0d1117" />
-      <br/><br/>
-      <p align="left">A console-based <strong>Karnaugh Map Solver</strong> supporting 2 to 4 variable Boolean expressions. Implements the Quine–McCluskey grouping logic to generate minimized SOP expressions — a digital logic design toolkit in pure C.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Digital%20Logic-9B59B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Boolean%20Algebra-E74C3C?style=flat-square" />
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>😊 Emotion Detection System</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-00d4ff?style=flat-square&labelColor=0d1117" />
-      <br/><br/>
-      <p align="left">A real-time facial emotion recognition system combining <strong>Python OpenCV</strong> deep learning models with <strong>Arduino hardware</strong> integration. Detected emotions are transmitted via <strong>I2C</strong> to display on embedded hardware in real time.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/I2C-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/Embedded-27AE60?style=flat-square" />
-      </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+### 📡 Offline Communication System Using LoRa
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
+![LoRa](https://img.shields.io/badge/-LoRa-00BCD4?style=flat-square)
+![GPS](https://img.shields.io/badge/-GPS-27AE60?style=flat-square)
+
+> A long-range offline communication system with real-time GPS tracking using Arduino Uno, SX1278 LoRa modules, and Neo-6M GPS — **no internet required.**
+
+**✨ Highlights**
+- ⚡ 10km+ Communication Range
+- 📍 Live GPS Tracking
+- 💬 Offline Messaging
+- 🖥️ OLED Display Interface
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/Lora-GPS-Tracker)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎙️ Jarvis AI Voice Assistant for Windows
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-FF9800?style=flat-square)
+![AI](https://img.shields.io/badge/-AI%20Assistant-8E44AD?style=flat-square)
+
+> An intelligent Windows voice assistant built with Python that automates desktop tasks, performs web searches, controls system functions, and interacts with multiple AI models.
+
+**✨ Highlights**
+- 🎤 Speech Recognition & TTS
+- 🤖 ChatGPT, Gemini, Claude & Perplexity
+- 💻 Windows Automation
+- ⚡ Multi-Command Voice Processing
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/Jarvis)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 😊 Emotion Detection System
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![I2C](https://img.shields.io/badge/-I2C-FF6F00?style=flat-square)
+
+> Real-time facial emotion recognition using **OpenCV** integrated with **Arduino** through I2C for embedded visualization.
+
+**✨ Highlights**
+- 👁️ Real-Time Face Detection
+- 😄 6 Emotion Categories
+- 🔌 I2C Communication
+- ⚡ Low-Latency Processing
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/emotion-detection-oled)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+  
+### 🎮 ESP8266 Dual Game Console
+
+![ESP8266](https://img.shields.io/badge/-ESP8266-E7352C?style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![OLED](https://img.shields.io/badge/-SSD1306_OLED-3F51B5?style=flat-square)
+![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FF9800?style=flat-square)
+
+> A wireless gaming console using **NodeMCU ESP8266**, **SSD1306 OLED**, and an **Android controller built with MIT App Inventor**. Play **Car Racing** and **Dino Runner** over Wi-Fi.
+
+**✨ Highlights**
+- 🎮 Car Racing & Dino Runner
+- 📱 Android Controller App
+- 📡 Wi-Fi Communication
+- 🏆 High Score System
+- 🔄 Restart & Main Menu
+- 📺 OLED Graphics
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/Dual-Game-Console)**
+
+</td>
+
+
+<td width="33%" valign="top">
+
+### 🔣 K-Map Solver in C
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Logic Design](https://img.shields.io/badge/-Digital_Logic-7B2FFF?style=flat-square)
+![Algorithms](https://img.shields.io/badge/-Algorithms-FF6B35?style=flat-square)
+
+> A Boolean expression minimization tool supporting **2, 3, and 4-variable Karnaugh Maps** with automatic prime implicant grouping.
+
+**✨ Highlights**
+- ✅ Supports 2/3/4 Variable K-Maps
+- 🔗 SOP Expression Generation
+- 🔄 Automatic Grouping
+- 📐 Digital Logic Verified
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/K-Map-Solver)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚧 Coming Soon
+
+<p align="center">
+<b>More exciting Embedded Systems, VLSI, AI & IoT projects are on the way!</b><br><br>
+⭐ Stay tuned for future updates.
+</p>
+
+</td>
+
+</tr>
 </table>
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              SECTION 10 — CERTIFICATIONS TABLE                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Certifications
 
 | 📜 Certificate Name | 🏢 Issued By | 🏷️ Badge | 🔗 Certificate |
 |---|---|---|:---:|
-| Semiconductor 101 v1.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](#) |
-| Digital IC Design Fundamentals v2.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](#) |
-| Verilog Language and Application v28.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](#) |
-| Microsoft Office Specialist: Excel Associate | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | [View](#) |
-| Power BI Specialist | Microsoft | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=0d1117) | [View](#) |
+| Semiconductor 101 v1.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Semiconductor%20101%20v1.0.pdf) |
+| Digital IC Design Fundamentals v2.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Digital%20IC%20Design%20Fundamentals%20v2.0.pdf) |
+| Verilog Language and Application v28.0 | Cadence Design Systems | ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=flat-square&logo=cadence&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Verilog%20Language%20and%20Application%20v28.0.pdf) |
+| Certified in C Programming | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&labelColor=0d1117&logo=cisco&logoColor=white) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Certified%20in%20C%20Programming.pdf) |
+| Power BI Specialist | Microsoft | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=0d1117) | [View](https://github.com/Naveen-Sai-25/Certifications/blob/main/Power%20BI%20Specialist.pdf) |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 SECTION 11 — ACHIEVEMENTS                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 Achievements & Milestones
 
@@ -310,31 +365,27 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          SECTION 12 — COMPETITIVE PROGRAMMING PROFILES        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 💻 Competitive Programming Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Rakesh__2007/">
+<a href="https://leetcode.com/u/naveensai_25/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/j_rakesh">
+<a href="https://www.codechef.com/users/naveen_sai_25">
   <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/profile/jujjarapurakesh">
+<a href="https://www.hackerrank.com/profile/naveensaichalla">
   <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/profile/jujjarap0teh">
+<a href="https://www.geeksforgeeks.org/profile/naveensai_25">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://hdlbits.01xz.net/wiki/Special:VlgStats/Me">
+<a href="https://hdlbits.01xz.net">
   <img src="https://img.shields.io/badge/HDLBits-Profile-FF6B35?style=for-the-badge&logo=verilog&logoColor=white" />
 </a>
 
@@ -342,27 +393,23 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                SECTION 13 — CONNECT WITH ME                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="mailto:jujjarapurakesh@gmail.com">
+<a href="mailto:naveensaichalla@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jujjarapu-rakesh-329937334/">
+<a href="https://www.linkedin.com/in/naveen-sai-challa-38049632b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Rakesh473">
+<a href="https://github.com/Naveen-Sai-25">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="#">
+<a href="https://naveen-sai-25.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" />
 </a>
 
@@ -374,17 +421,14 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--            SECTION 14 — VISITOR COUNT + QUOTATION             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jujjarapurakesh&label=Total+Profile+Visitors&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&label=Total+Profile+Visitors&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Designing%20logic%20today%20to%20engineer%20intelligent%20systems%20tomorrow.&author=Jujjarapu%20Rakesh" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Designing%20logic%20today%20to%20engineer%20intelligent%20systems%20tomorrow.&author=Challa%20Naveen Sai" />
 
 <br/>
 
@@ -399,5 +443,5 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 ---
 
 <div align="center">
-  <sub>⚡ Built with precision by <strong>Jujjarapu Rakesh</strong> · ECE · VLSI · Embedded · IoT</sub>
+  <sub>⚡ Built with precision by <strong>Ch Naveen Sai </strong> · ECE · VLSI · Embedded · IoT</sub>
 </div>
