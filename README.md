@@ -213,6 +213,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 💬 Offline Messaging
 - 🖥️ OLED Display Interface
 
+<div align="center">
 <a href="https://github.com/Naveen-Sai-25/Lora-GPS-Tracker">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -236,6 +237,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 💻 Windows Automation
 - ⚡ Multi-Command Voice Processing
 
+<div align="center">
 <a href="https://github.com/Naveen-Sai-25/Jarvis">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -259,6 +261,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 🔌 I2C Communication
 - ⚡ Low-Latency Processing
 
+<div align="center">
 <a href="https://github.com/Naveen-Sai-25/emotion-detection-oled">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -288,6 +291,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 🔄 Restart & Main Menu
 - 📺 OLED Graphics
 
+<div align="center">
 <a href="https://github.com/Naveen-Sai-25/Dual-Game-Console">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -310,6 +314,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 🔄 Automatic Grouping
 - 📐 Digital Logic Verified
 
+<div align="center">
 <a href="https://github.com/Naveen-Sai-25/K-Map-Solver">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
