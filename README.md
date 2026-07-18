@@ -213,7 +213,9 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 💬 Offline Messaging
 - 🖥️ OLED Display Interface
 
-🔗 **[View Project](https://github.com/Naveen-Sai-25/Lora-GPS-Tracker)**
+<a href="https://github.com/Naveen-Sai-25/Lora-GPS-Tracker">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -234,7 +236,9 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 💻 Windows Automation
 - ⚡ Multi-Command Voice Processing
 
-🔗 **[View Project](https://github.com/Naveen-Sai-25/Jarvis)**
+<a href="https://github.com/Naveen-Sai-25/Jarvis">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -255,7 +259,9 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 🔌 I2C Communication
 - ⚡ Low-Latency Processing
 
-🔗 **[View Project](https://github.com/Naveen-Sai-25/emotion-detection-oled)**
+<a href="https://github.com/Naveen-Sai-25/emotion-detection-oled">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -282,8 +288,9 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 🔄 Restart & Main Menu
 - 📺 OLED Graphics
 
-🔗 **[View Project](https://github.com/Naveen-Sai-25/Dual-Game-Console)**
-
+<a href="https://github.com/Naveen-Sai-25/Dual-Game-Console">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </td>
 
 
@@ -303,7 +310,9 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 - 🔄 Automatic Grouping
 - 📐 Digital Logic Verified
 
-🔗 **[View Project](https://github.com/Naveen-Sai-25/K-Map-Solver)**
+<a href="https://github.com/Naveen-Sai-25/K-Map-Solver">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
