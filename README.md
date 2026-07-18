@@ -173,64 +173,129 @@ endmodule
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 📡 Offline Communication System Using LoRa
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
 ![LoRa](https://img.shields.io/badge/-LoRa-00BCD4?style=flat-square)
 ![GPS](https://img.shields.io/badge/-GPS-27AE60?style=flat-square)
 
-> Long-range offline communication and real-time GPS tracking using Arduino Uno, SX1278 LoRa module, and Neo-6M GPS — no internet required.
+> A long-range offline communication system with real-time GPS tracking using Arduino Uno, SX1278 LoRa modules, and Neo-6M GPS — **no internet required.**
 
-**Highlights:**
-- ⚡ Range up to 10km+
-- 📍 Real-time location sharing
-- 💬 Offline peer-to-peer messaging
-- 🖥️ OLED display interface
+**✨ Highlights**
+- ⚡ 10km+ Communication Range
+- 📍 Live GPS Tracking
+- 💬 Offline Messaging
+- 🖥️ OLED Display Interface
 
-🔗 [View Project](https://github.com/Naveen-Sai-25/Lora-GPS-Tracker)
+🔗 **[View Project](https://github.com/Naveen-Sai-25/Lora-GPS-Tracker)**
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🔣 K-Map Solver in C
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Logic Design](https://img.shields.io/badge/-Digital_Logic-7B2FFF?style=flat-square)
-![Algorithms](https://img.shields.io/badge/-Algorithms-FF6B35?style=flat-square)
+### 🎙️ Jarvis AI Voice Assistant for Windows
 
-> Boolean expression minimization tool supporting 2, 3, and 4-variable Karnaugh Maps with automatic prime implicant grouping.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-FF9800?style=flat-square)
+![AI](https://img.shields.io/badge/-AI%20Assistant-8E44AD?style=flat-square)
 
-**Highlights:**
-- ✅ 2/3/4-variable K-Maps
-- 🔗 SOP expression output
-- 🔄 Auto-grouping algorithm
-- 📐 Digital logic verified
+> An intelligent Windows voice assistant built with Python that automates desktop tasks, performs web searches, controls system functions, and interacts with multiple AI models.
 
-🔗 [View Project](https://github.com/Naveen-Sai-25/K-Map-Solver)
+**✨ Highlights**
+- 🎤 Speech Recognition & TTS
+- 🤖 ChatGPT, Gemini, Claude & Perplexity
+- 💻 Windows Automation
+- ⚡ Multi-Command Voice Processing
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/Jarvis)**
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 😊 Emotion Detection System
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![I2C](https://img.shields.io/badge/-I2C-FF6F00?style=flat-square)
 
-> Real-time facial emotion detection using OpenCV integrated with Arduino hardware via I2C for embedded visualization.
+> Real-time facial emotion recognition using **OpenCV** integrated with **Arduino** through I2C for embedded visualization.
 
-**Highlights:**
-- 👁️ Real-time face analysis
-- 🔌 I2C hardware interface
-- 😄 6 emotion categories
-- ⚡ Low-latency pipeline
+**✨ Highlights**
+- 👁️ Real-Time Face Detection
+- 😄 6 Emotion Categories
+- 🔌 I2C Communication
+- ⚡ Low-Latency Processing
 
-🔗 [View Project](https://github.com/Naveen-Sai-25/emotion-detection-oled)
+🔗 **[View Project](https://github.com/Naveen-Sai-25/emotion-detection-oled)**
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+  
+### 🎮 ESP8266 Dual Game Console
+
+![ESP8266](https://img.shields.io/badge/-ESP8266-E7352C?style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![OLED](https://img.shields.io/badge/-SSD1306_OLED-3F51B5?style=flat-square)
+![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FF9800?style=flat-square)
+
+> A wireless gaming console using **NodeMCU ESP8266**, **SSD1306 OLED**, and an **Android controller built with MIT App Inventor**. Play **Car Racing** and **Dino Runner** over Wi-Fi.
+
+**✨ Highlights**
+- 🎮 Car Racing & Dino Runner
+- 📱 Android Controller App
+- 📡 Wi-Fi Communication
+- 🏆 High Score System
+- 🔄 Restart & Main Menu
+- 📺 OLED Graphics
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/Dual-Game-Console)**
+
+</td>
+
+
+<td width="33%" valign="top">
+
+### 🔣 K-Map Solver in C
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Logic Design](https://img.shields.io/badge/-Digital_Logic-7B2FFF?style=flat-square)
+![Algorithms](https://img.shields.io/badge/-Algorithms-FF6B35?style=flat-square)
+
+> A Boolean expression minimization tool supporting **2, 3, and 4-variable Karnaugh Maps** with automatic prime implicant grouping.
+
+**✨ Highlights**
+- ✅ Supports 2/3/4 Variable K-Maps
+- 🔗 SOP Expression Generation
+- 🔄 Automatic Grouping
+- 📐 Digital Logic Verified
+
+🔗 **[View Project](https://github.com/Naveen-Sai-25/K-Map-Solver)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚧 Coming Soon
+
+<p align="center">
+<b>More exciting Embedded Systems, VLSI, AI & IoT projects are on the way!</b><br><br>
+⭐ Stay tuned for future updates.
+</p>
+
+</td>
+
 </tr>
 </table>
 
