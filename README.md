@@ -59,23 +59,15 @@ I enjoy exploring how digital systems work—from writing **Verilog HDL** for RT
 To build a career as a **VLSI Design / RTL / Design Verification Engineer**, contributing to innovative semiconductor technologies while continuously learning, building, and growing as an engineer.
 
 > *"Every great chip begins with a simple idea and a well-designed circuit."* ⚡
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--            SECTION 5 — CONTRIBUTION SNAKE ANIMATION           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+
 
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Naveen-Sai-25/Naveen-Sai-25/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
@@ -160,30 +152,41 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 </div>
 ---
 
+## 💼 Internships
 
-## 💼 Internship Experience
+<table>
+<tr>
+<td width="50%" valign="top">
+  
+### 📡 IoT & Embedded Systems Intern
+**Eduexpose** &nbsp;|&nbsp; `May 2026 – July 2026`
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 IoT & Embedded Systems Intern</h3>
-      <img src="https://img.shields.io/badge/Eduexpose-Completed%20✅-00d4ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/Duration-May%202026%20–%20June%202026-8b949e?style=flat-square&labelColor=0d1117" />
-      <br/><br/>
-      <p>Worked on hands-on embedded systems development encompassing sensor interfacing, actuator control, microcontroller programming, hardware debugging, and end-to-end IoT application design. Gained practical exposure to real-world hardware–software integration challenges.</p>
-      <p><b>Skills:</b> <code>Embedded C</code> · <code>Sensors & Actuators</code> · <code>Microcontrollers</code> · <code>IoT Systems</code> · <code>Debugging</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Summer Internship — AI/ML</h3>
-      <img src="https://img.shields.io/badge/IIT%20Guwahati%20(TIH)-In%20Progress%20🔄-00d4ff?style=flat-square&labelColor=0d1117" />
-      <br/>
-      <img src="https://img.shields.io/badge/Duration-June%202026%20–%20July%202026-8b949e?style=flat-square&labelColor=0d1117" />
-      <br/><br/>
-      <p>Completed coursework at <strong>IIT Guwahati</strong> in Python Programming, Data Analysis, File Handling, and Machine Learning Foundations. Gained hands-on experience with Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and basic machine learning techniques.</p>
-      <p><b>Skills:</b> <code>Python</code> · <code>Python Libraries</code> · <code>Data Analysis</code> · <code>Data Preprocessing</code> · <code>Machine Learning Fundamentals</code></p>
-    </td>
-  </tr>
+![Internship](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-IOT%20%26%20Embedded%20System-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-View_Here-059669?style=flat-square&labelColor=0F172A&logo=read-the-docs&logoColor=white)
+
+## 🛠️ Tech Stack & Skills Acquired
+* **IoT & Cloud Platforms:** Wokwi Simulator, Node-RED, ThingsBoard, Firebase Cloud, Blynk
+* **Communication Protocols:** MQTT, HTTP, Serial & Wireless Protocols
+* **Hardware & Electronics Concepts:** Sensor Integration, Actuator Control, Wi-Fi MCU Simulation (ESP32)
+* **Software & Firmware:** C/C++ (Arduino Framework), Data Telemetry, API Integration (HTTP/MQTT)
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Summer Internship — Artificial Intelligence and Machine Learning
+**IIT Guwahati** &nbsp;|&nbsp; `June 2026 – July 2026`
+
+![Internship](https://img.shields.io/badge/Status-InProgress-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-(AIML)-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-View_Here-059669?style=flat-square&labelColor=0F172A&logo=read-the-docs&logoColor=white)
+## 🛠️ Tech Stack & Skills Acquired
+* **Programming:** Python
+* **Data Science & ML Workflow:** Data Preprocessing, Feature Engineering, Model Training, Evaluation
+* **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, Matplotlib
+* **Hardware/Electronics Concepts:** System testing, validation, and signal/data integration
+
+</td>
+</tr>
 </table>
 
 ---
