@@ -150,6 +150,7 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 </p>
 
 </div>
+
 ---
 
 ## 💼 Internships
