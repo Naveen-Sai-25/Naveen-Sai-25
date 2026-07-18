@@ -439,14 +439,13 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&label=Total+Profile+Visitors&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Designing%20logic%20today%20to%20engineer%20intelligent%20systems%20tomorrow.&author=Challa%20Naveen Sai" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Designing%20logic%20today%20to%20engineer%20intelligent%20systems%20tomorrow.&author=Challa%20NaveenSai" />
 
 <br/>
 
