@@ -75,27 +75,15 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" width="430" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="330" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Naveen-Sai-25&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117&stroke=00d4ff" width="760" />
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
 
-</div>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
-</div>
+<br><br>
 
-<div align="center">
+<img width="88%" src="https://github-readme-streak-stats.herokuapp.com?user=Naveen-Sai-25&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117&stroke=00d4ff" />
+
+<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Sai-25&bg_color=0d1117&color=00f5ff&line=0066ff&point=00f5ff&area=true&area_color=0066ff&hide_border=true" />
 
