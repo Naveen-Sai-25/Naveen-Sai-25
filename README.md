@@ -512,7 +512,7 @@ const naveen = {
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-sai-challa-38049632b/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-sai-lakshmi-naveen-challa-38049632b/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensaichalla@gmail.com)
 
