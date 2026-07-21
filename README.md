@@ -102,6 +102,21 @@ const naveen = {
 
 ---
 
+## 🗺️ My B.Tech Journey
+
+```text
+2024                      2025                           2026                           2028
+│                         │                              │                              │
+▼                         ▼                              ▼                              🎯
+┌────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────┐
+│ B.Tech (ECE)       │─▶│ RTL Design Journey     │─▶│ Industry Experience    │─▶│ RTL Engineer      │
+│ Programming Basics │  │ Verilog • HDLBits      │  │ IoT @ Eduexpose        │  │ DV Engineer        │
+│ Problem Solving    │  │ Digital Electronics    │  │ AI/ML @ IIT Guwahati   │  │ Dream Career       │
+└────────────────────┘  └────────────────────────┘  └────────────────────────┘  └────────────────────┘
+```
+
+
+
 
 ## ⚡ Skills & Tech Stack
 
@@ -394,19 +409,6 @@ const naveen = {
 </tr>
 
 </table>
-
-## 🗺️ My B.Tech Journey
-
-```text
-2024                      2025                           2026                           2028
-│                         │                              │                              │
-▼                         ▼                              ▼                              🎯
-┌────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────┐
-│ B.Tech (ECE)       │─▶│ RTL Design Journey     │─▶│ Industry Experience    │─▶│ RTL Engineer      │
-│ Programming Basics │  │ Verilog • HDLBits      │  │ IoT @ Eduexpose        │  │ DV Engineer        │
-│ Problem Solving    │  │ Digital Electronics    │  │ AI/ML @ IIT Guwahati   │  │ Dream Career       │
-└────────────────────┘  └────────────────────────┘  └────────────────────────┘  └────────────────────┘
-```
 
 
 
