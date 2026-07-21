@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/Naveen-Sai-25"><img src="https://img.shields.io/badge/GitHub-Naveen--Sai--25-%2300D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/naveen-sai-challa-38049632b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/naga-sai-lakshmi-naveen-challa-38049632b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:naveensaichalla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
