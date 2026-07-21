@@ -339,6 +339,12 @@ const naveen = {
 - 🌡️ Temperature Monitoring
 - 📱 Mobile Dashboard
 
+<p align="center">
+<a href="https://github.com/Naveen-Sai-25/Smart-Home-Automation">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 </td>
 
 </tr>
