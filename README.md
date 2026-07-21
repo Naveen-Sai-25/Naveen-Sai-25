@@ -466,7 +466,7 @@ const naveen = {
   <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://hdlbits.01xz.net">
+<a href="https://hdlbits.01xz.net/wiki/Special:VlgStats/Me">
   <img src="https://img.shields.io/badge/HDLBits-Profile-FF6B35?style=for-the-badge&logo=verilog&logoColor=white" />
 </a>
 
