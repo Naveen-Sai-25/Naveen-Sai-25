@@ -95,9 +95,9 @@ const naveen = {
 │                         │                              │                              │
 ▼                         ▼                              ▼                              🎯
 ┌────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────┐
-│ B.Tech (ECE)       │─▶│ RTL Design Journey     │─▶│ Industry Experience    │─▶│ RTL Engineer      │
-│ Programming Basics │  │ Verilog • HDLBits      │  │ IoT @ Eduexpose        │  │ DV Engineer        │
-│ Problem Solving    │  │ Digital Electronics    │  │ AI/ML @ IIT Guwahati   │  │ Dream Career       │
+│ B.Tech (ECE)       │─▶│ VLSI Design Journey    │─▶│ Industry Experience   │─▶│ RTL Engineer      │
+│ Programming Basics │  │         DELD           │  │ IoT @ Eduexpose        │  │ D&V Engineer       │
+│ Problem Solving    │  │ Verilog • HDLBits      │  │ AI/ML @ IIT Guwahati   │  │ Dream Career       │
 └────────────────────┘  └────────────────────────┘  └────────────────────────┘  └────────────────────┘
 ```
 
