@@ -176,40 +176,61 @@ const naveen = {
 <td width="50%" valign="top">
 
 ### 📡 IoT & Embedded Systems Intern
-**Eduexpose**  
+
+**🏢 Eduexpose**  
 `May 2026 – July 2026`
 
-![Status](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-IoT%20%26%20Embedded-1E3A8A?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-IoT%20%26%20Embedded-2563EB?style=flat-square)
 
-#### 🛠️ Tech Stack
-`ESP32` `Embedded C` `Node-RED` `Firebase` `ThingsBoard` `Blynk` `MQTT` `HTTP`
+> Designed and developed IoT-based embedded applications using ESP32, cloud platforms, and wireless communication protocols.
 
-#### 🚀 Key Contributions
-- Developed IoT automation solutions using **ESP32**.
-- Integrated **Node-RED**, **Firebase**, and **Blynk**.
-- Implemented **MQTT** and **HTTP** communication.
-- Built real-time monitoring and telemetry applications.
+#### ⚙️ Technologies Used
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-2F80ED?style=flat-square)
+![Blynk](https://img.shields.io/badge/Blynk-24C670?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-0A66C2?style=flat-square)
+
+#### ✨ Key Contributions
+
+- 🚀 Developed IoT automation applications using **ESP32**.
+- ☁️ Integrated **Node-RED**, **Firebase**, **ThingsBoard**, and **Blynk**.
+- 📡 Implemented **MQTT** and **HTTP** communication.
+- 📊 Built real-time telemetry and remote monitoring solutions.
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🏛️ AI & Machine Learning Intern
-**IIT Guwahati**  
+
+**🏢 IIT Guwahati**  
 `June 2026 – July 2026`
 
-![Status](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-AI%20%26%20ML-1E3A8A?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-AI%20%26%20Machine%20Learning-2563EB?style=flat-square)
 
-#### 🛠️ Tech Stack
-`Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
+> Worked on machine learning workflows involving data preprocessing, model development, and performance evaluation.
 
-#### 🚀 Key Contributions
-- Developed end-to-end data preprocessing pipelines.
-- Trained and evaluated machine learning models.
-- Performed feature engineering and model validation.
-- Worked on real-world AI workflow implementation.
+#### ⚙️ Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+#### ✨ Key Contributions
+
+- 📊 Developed end-to-end data preprocessing pipelines.
+- 🤖 Built and evaluated machine learning models.
+- 📈 Performed feature engineering and model validation.
+- ⚡ Applied AI techniques to real-world datasets.
 
 </td>
 
