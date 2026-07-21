@@ -1,99 +1,109 @@
 <div align="center">
 
-<p align="center">
-  <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Challa%20Naveensai%20&desc=VLSI%20Enthusiast%20|%20RTL%20Design%20|%20Digital%20Electronics&descSize=22&descAlignY=60&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0080ff,60:00d4ff,100:0d1117&height=220&section=header&text=Challa%20Naga%20Sai%20Lakshmi%20Naveen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=VLSI%20%7C%20RTL%20Design%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=62&descSize=16&animation=fadeIn" />
 
-<h3>Electronics For Effective Communication Through Engineering (ECE) </h3>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Electronics+%26+Communication+Engineer;Verilog+HDL+Developer;RTL+Design+Enthusiast;Embedded+Systems+Builder;IoT+Developer;VLSI+%26+Digital+Systems+Learner;Problem+Solver" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Naveen-Sai-25?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.32%20%2F%2010.0-00d4ff?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Electronics+for+Effective+Communication+Through+Engineering;RTL+Design+%26+Digital+Logic+Developer;110%2B+HDLBits+Solved+%7C+250%2B+Coding+Problems;IoT+%26+Embedded+Systems+Intern+%40+Eduexpose;AIML+Intern+%40+IIT+Guwahati;Cadence+Certified+in+Digital+IC+Design+%26+Verilog" alt="Typing SVG" />
 
 <br/>
 
-</div>
+<a href="https://github.com/Naveen-Sai-25"><img src="https://img.shields.io/badge/GitHub-Naveen--Sai--25-%2300D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/naveen-sai-challa-38049632b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:naveensaichalla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
-## 🧑‍💻 About Me
+<br/><br/>
 
-> **Turning ideas into digital reality, one logic gate at a time.**
-
-🔹 **Name:** Challa Naga Sai Lakshmi Naveen  
-🎓 **Education:** B.Tech in Electronics & Communication Engineering, Aditya University  
-📍 **Location:** Peddapuram, Andhra Pradesh, India  
-
-### 🚀 What Drives Me
-
-I enjoy exploring how digital systems work—from writing **Verilog HDL** for RTL design to building **embedded and IoT applications** that solve real-world problems. I believe every project is an opportunity to learn something new and improve as an engineer.
-
-### 💡 My Interests
-
-- ⚙️ VLSI Design & RTL Development
-- 🖥️ FPGA & Digital System Design
-- 📡 Embedded Systems & IoT
-- 🔬 Semiconductor Technologies
-- 🧩 Problem Solving & Hardware Innovation
-
-### 🌱 Currently Exploring
-
-- SystemVerilog & Design Verification
-- FPGA Design Flow
-- Digital IC Design
-- Advanced Embedded Systems
-
-### 🎯 My Goal
-
-To build a career as a **VLSI Design / RTL / Design Verification Engineer**, contributing to innovative semiconductor technologies while continuously learning, building, and growing as an engineer.
-
-> *"Every great chip begins with a simple idea and a well-designed circuit."* ⚡
-
-
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naveen-Sai-25&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Sai-25&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<br><br>
-
-<img width="88%" src="https://github-readme-streak-stats.herokuapp.com?user=Naveen-Sai-25&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117&stroke=00d4ff" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Sai-25&bg_color=0d1117&color=00f5ff&line=0066ff&point=00f5ff&area=true&area_color=0066ff&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&color=00d4ff&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Naveen-Sai-25?style=flat-square&color=00d4ff&label=Followers"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👤 About Me
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+```javascript
+const naveen = {
+  name: "Challa Naga Sai Lakshmi Naveen",
+  degree: "B.Tech ECE @ Aditya University",
+  batch: "2024 – 2028 | CGPA: 8.32",
+  interests: [
+    "RTL Design",
+    "Digital Design",
+    "SystemVerilog",
+    "VLSI",
+    "Embedded Systems"
+  ],
+  internships: [
+    "IoT & Embedded @ Eduexpose",
+    "AI/ML @ IIT Guwahati"
+  ],
+  skills: [
+    "Verilog",
+    "SystemVerilog",
+    "C/C++",
+    "Python"
+  ],
+  currentFocus: "RTL Design & Verification",
+  status: "Open to RTL / VLSI Internship Opportunities"
+};
+```
+
+</td>
+
+<td valign="top" width="50%">
+
+🚀 Passionate about **Digital Design, RTL Development, and VLSI Engineering**
+
+🔬 Hands-on experience in **Verilog HDL**, **Digital Logic Design**, and **FPGA Development**
+
+🌱 Currently learning **SystemVerilog** and Digital Verification concepts
+
+💼 Completed internships in **IoT & Embedded Systems** and **AI/ML**
+
+📜 Earned **Cadence certifications** in **Verilog** and **Digital IC Design**
+
+💬 Ask me about **Verilog, Digital Logic, RTL Design, and IoT**
+
+📫 **Email:** `naveensaichalla@gmail.com`
+
+</td>
+</tr>
+</table>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
 
 ---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | Score |
+|:--------|:------------|:--------:|:-----:|
+| **B.Tech – Electronics & Communication Engineering** | **Aditya University, Surampalem, Andhra Pradesh** | **2024 – 2028** | **CGPA: 8.32 / 10.0** |
+| **Intermediate (MPC)** | **Aditya Junior College, Kakinada (BIEAP)** | **2021 – 2023** | **85.3%** |
+
+</div>
+
+---
+
+
+## ⚡ Skills & Tech Stack
 
 <div align="center">
 
@@ -146,191 +156,242 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-## 💼 Internships
+## 📊 Skill Proficiency
+
+| Skill | Level | Proficiency |
+| :--- | :---: | :---: |
+| **Verilog / HDL** | Advanced | `████████████████████░░░` **88%** |
+| **Embedded C / IoT** | Proficient | `██████████████████░░░░` **80%** |
+| **Digital Logic Design** | Proficient | `█████████████████░░░░░` **78%** |
+| **C / C++ / Python** | Proficient | `████████████████░░░░░░` **75%** |
+| **SystemVerilog & DV** | Learning | `█████████████░░░░░░░░` **65%** |
+
+---
+
+## 💼 Internship Experience
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
-  
+
 ### 📡 IoT & Embedded Systems Intern
-**Eduexpose** &nbsp;|&nbsp; `May 2026 – July 2026`
+**Eduexpose**  
+`May 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-IOT%20%26%20Embedded%20System-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
-![Certificate](https://img.shields.io/badge/Certificate-View_Here-059669?style=flat-square&labelColor=0F172A&logo=read-the-docs&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-IoT%20%26%20Embedded-1E3A8A?style=flat-square)
 
-## 🛠️ Tech Stack & Skills Acquired
-* **IoT & Cloud Platforms:** Wokwi Simulator, Node-RED, ThingsBoard, Firebase Cloud, Blynk
-* **Communication Protocols:** MQTT, HTTP, Serial & Wireless Protocols
-* **Hardware & Electronics Concepts:** Sensor Integration, Actuator Control, Wi-Fi MCU Simulation (ESP32)
-* **Software & Firmware:** C/C++ (Arduino Framework), Data Telemetry, API Integration (HTTP/MQTT)
+#### 🛠️ Tech Stack
+`ESP32` `Embedded C` `Node-RED` `Firebase` `ThingsBoard` `Blynk` `MQTT` `HTTP`
+
+#### 🚀 Key Contributions
+- Developed IoT automation solutions using **ESP32**.
+- Integrated **Node-RED**, **Firebase**, and **Blynk**.
+- Implemented **MQTT** and **HTTP** communication.
+- Built real-time monitoring and telemetry applications.
+
 </td>
+
 <td width="50%" valign="top">
 
-### 🏛️ Summer Internship — Artificial Intelligence and Machine Learning
-**IIT Guwahati** &nbsp;|&nbsp; `June 2026 – July 2026`
+### 🏛️ AI & Machine Learning Intern
+**IIT Guwahati**  
+`June 2026 – July 2026`
 
-![Internship](https://img.shields.io/badge/Status-InProgress-2563EB?style=flat-square&labelColor=0F172A&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-(AIML)-1E3A8A?style=flat-square&labelColor=0F172A&logoColor=white)
-![Certificate](https://img.shields.io/badge/Certificate-View_Here-059669?style=flat-square&labelColor=0F172A&logo=read-the-docs&logoColor=white)
-## 🛠️ Tech Stack & Skills Acquired
-* **Programming:** Python
-* **Data Science & ML Workflow:** Data Preprocessing, Feature Engineering, Model Training, Evaluation
-* **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, Matplotlib
-* **Hardware/Electronics Concepts:** System testing, validation, and signal/data integration
+![Status](https://img.shields.io/badge/Status-Completed-2563EB?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-AI%20%26%20ML-1E3A8A?style=flat-square)
+
+#### 🛠️ Tech Stack
+`Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
+
+#### 🚀 Key Contributions
+- Developed end-to-end data preprocessing pipelines.
+- Trained and evaluated machine learning models.
+- Performed feature engineering and model validation.
+- Worked on real-world AI workflow implementation.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📡 Offline Communication System Using LoRa
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
-![LoRa](https://img.shields.io/badge/-LoRa-00BCD4?style=flat-square)
-![GPS](https://img.shields.io/badge/-GPS-27AE60?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00BCD4?style=flat-square)
+![GPS](https://img.shields.io/badge/GPS-27AE60?style=flat-square)
 
-> A long-range offline communication system with real-time GPS tracking using Arduino Uno, SX1278 LoRa modules, and Neo-6M GPS — **no internet required.**
+> Long-range offline communication and GPS tracking using Arduino Uno, SX1278 LoRa, and Neo-6M GPS.
 
 **✨ Highlights**
-- ⚡ 10km+ Communication Range
 - 📍 Live GPS Tracking
+- 📡 Long-Range Communication
 - 💬 Offline Messaging
-- 🖥️ OLED Display Interface
-
-<div align="center">
-<a href="https://github.com/Naveen-Sai-25/Lora-GPS-Tracker">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎙️ Jarvis AI Voice Assistant for Windows
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-FF9800?style=flat-square)
-![AI](https://img.shields.io/badge/-AI%20Assistant-8E44AD?style=flat-square)
-
-> An intelligent Windows voice assistant built with Python that automates desktop tasks, performs web searches, controls system functions, and interacts with multiple AI models.
-
-**✨ Highlights**
-- 🎤 Speech Recognition & TTS
-- 🤖 ChatGPT, Gemini, Claude & Perplexity
-- 💻 Windows Automation
-- ⚡ Multi-Command Voice Processing
-
-<div align="center">
-<a href="https://github.com/Naveen-Sai-25/Jarvis">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 😊 Emotion Detection System
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![I2C](https://img.shields.io/badge/-I2C-FF6F00?style=flat-square)
-
-> Real-time facial emotion recognition using **OpenCV** integrated with **Arduino** through I2C for embedded visualization.
-
-**✨ Highlights**
-- 👁️ Real-Time Face Detection
-- 😄 6 Emotion Categories
-- 🔌 I2C Communication
-- ⚡ Low-Latency Processing
-
-<div align="center">
-<a href="https://github.com/Naveen-Sai-25/emotion-detection-oled">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-  
-### 🎮 ESP8266 Dual Game Console
-
-![ESP8266](https://img.shields.io/badge/-ESP8266-E7352C?style=flat-square)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![OLED](https://img.shields.io/badge/-SSD1306_OLED-3F51B5?style=flat-square)
-![MIT App Inventor](https://img.shields.io/badge/-MIT_App_Inventor-FF9800?style=flat-square)
-
-> A wireless gaming console using **NodeMCU ESP8266**, **SSD1306 OLED**, and an **Android controller built with MIT App Inventor**. Play **Car Racing** and **Dino Runner** over Wi-Fi.
-
-**✨ Highlights**
-- 🎮 Car Racing & Dino Runner
-- 📱 Android Controller App
-- 📡 Wi-Fi Communication
-- 🏆 High Score System
-- 🔄 Restart & Main Menu
-- 📺 OLED Graphics
-
-<div align="center">
-<a href="https://github.com/Naveen-Sai-25/Dual-Game-Console">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-
-
-<td width="33%" valign="top">
-
-### 🔣 K-Map Solver in C
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Logic Design](https://img.shields.io/badge/-Digital_Logic-7B2FFF?style=flat-square)
-![Algorithms](https://img.shields.io/badge/-Algorithms-FF6B35?style=flat-square)
-
-> A Boolean expression minimization tool supporting **2, 3, and 4-variable Karnaugh Maps** with automatic prime implicant grouping.
-
-**✨ Highlights**
-- ✅ Supports 2/3/4 Variable K-Maps
-- 🔗 SOP Expression Generation
-- 🔄 Automatic Grouping
-- 📐 Digital Logic Verified
-
-<div align="center">
-<a href="https://github.com/Naveen-Sai-25/K-Map-Solver">
-        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🚧 Coming Soon
+- 📺 OLED Display
 
 <p align="center">
-<b>More exciting Embedded Systems, VLSI, AI & IoT projects are on the way!</b><br><br>
-⭐ Stay tuned for future updates.
+<a href="https://github.com/Naveen-Sai-25/Lora-GPS-Tracker">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎙️ Jarvis AI Voice Assistant
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9800?style=flat-square)
+
+> AI-powered Windows voice assistant for desktop automation, web search, and voice commands.
+
+**✨ Highlights**
+- 🎤 Speech Recognition
+- 🤖 AI Integration
+- 💻 Windows Automation
+- ⚡ Voice Commands
+
+<p align="center">
+<a href="https://github.com/Naveen-Sai-25/Jarvis">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 😊 Emotion Detection System
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+> Real-time facial emotion recognition integrated with Arduino using I2C communication.
+
+**✨ Highlights**
+- 👁️ Face Detection
+- 😊 Emotion Recognition
+- 🔌 I2C Communication
+- ⚡ Real-Time Processing
+
+<p align="center">
+<a href="https://github.com/Naveen-Sai-25/emotion-detection-oled">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ Smart Home Security System
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-24C670?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square)
+
+> ESP32-based smart security system with real-time monitoring and remote control.
+
+**✨ Highlights**
+- 🔥 Fire Detection
+- 🚨 Gas Leakage Alert
+- 🌡️ Temperature Monitoring
+- 📱 Mobile Dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 ESP8266 Dual Game Console
+
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square)
+![OLED](https://img.shields.io/badge/SSD1306-3F51B5?style=flat-square)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-2196F3?style=flat-square)
+
+> Wi-Fi controlled gaming console featuring Car Racing and Dino Runner.
+
+**✨ Highlights**
+- 🎮 Two Games
+- 📱 Android Controller
+- 📡 Wi-Fi Control
+- 🏆 High Scores
+
+<p align="center">
+<a href="https://github.com/Naveen-Sai-25/Dual-Game-Console">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔣 K-Map Solver
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6B35?style=flat-square)
+
+> Boolean expression minimization tool supporting 2, 3, and 4-variable Karnaugh Maps.
+
+**✨ Highlights**
+- ✅ SOP Generation
+- 🔄 Automatic Grouping
+- 📐 Logic Optimization
+- ⚡ Fast Computation
+
+<p align="center">
+<a href="https://github.com/Naveen-Sai-25/K-Map-Solver">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
+
+## 🗺️ My B.Tech Journey
+
+```text
+2024                      2025                           2026                           2028
+│                         │                              │                              │
+▼                         ▼                              ▼                              🎯
+┌────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────┐
+│ B.Tech (ECE)       │─▶│ RTL Design Journey     │─▶│ Industry Experience    │─▶│ RTL Engineer      │
+│ Programming Basics │  │ Verilog • HDLBits      │  │ IoT @ Eduexpose        │  │ DV Engineer        │
+│ Problem Solving    │  │ Digital Electronics    │  │ AI/ML @ IIT Guwahati   │  │ Dream Career       │
+└────────────────────┘  └────────────────────────┘  └────────────────────────┘  └────────────────────┘
+```
+
 
 
 ## 🎓 Certifications
+
+<div align="center">
 
 | 📜 Certificate Name | 🏢 Issued By | 🏷️ Badge | 🔗 Certificate |
 |---|---|---|:---:|
@@ -404,43 +465,32 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 ---
 
-## 🌐 Connect With Me
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="mailto:naveensaichalla@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/naveen-sai-challa-38049632b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Naveen-Sai-25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://naveen-sai-25.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naveen-Sai-25&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border_radius=12)](https://git.io/streak-stats)
 
-<br><br>
+<br/>
 
-### ⭐ If you like my work, consider giving my repositories a star!
+[![Naveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Sai-25&bg_color=0d1117&color=00d4ff&line=0066ff&point=00d4ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+</div>
 
-<br><br>
+---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Designing%20logic%20today%20to%20engineer%20intelligent%20systems%20tomorrow.&author=Challa%20NaveenSai" />
+## 📬 Let's Connect & Build Silicon Together!
 
-<br><br>
+<div align="center">
 
-> *"From transistors to systems — every layer of abstraction is an opportunity to innovate."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+VLSI+Internships;Open+to+RTL+Design+Roles;Open+to+Embedded+%26+IoT+Projects;Let%27s+build+silicon+together!" alt="Connect Typing"/>
 
-<br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0080ff,100:0d1117&height=120&section=footer&fontSize=18&fontColor=c9d1d9&animation=fadeIn" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-sai-challa-38049632b/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveensaichalla@gmail.com)
 
 </div>
 
@@ -448,8 +498,8 @@ To build a career as a **VLSI Design / RTL / Design Verification Engineer**, con
 
 <div align="center">
 
-**⚡ Built with precision by Challa Naga Sai Lakshmi Naveen**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0080ff,100:00d4ff&height=120&section=footer&text=Designed%20with%20passion.%20Built%20with%20precision.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
-*Electronics & Communication Engineering • VLSI • Embedded Systems • IoT • RTL Design*
+<img src="https://komarev.com/ghpvc/?username=Naveen-Sai-25&color=00d4ff&style=flat-square&label=Profile+Views"/>
 
 </div>
