@@ -57,19 +57,20 @@ const naveen = {
 
 <td valign="top" width="50%">
 
-🚀 Passionate about **Digital Design, RTL Development, and VLSI Engineering**
+🚀 **Passionate about Digital Design, RTL Development, and VLSI Engineering**
 
-🔬 Hands-on experience in **Verilog HDL**, **Digital Logic Design**, and **FPGA Development**
+🔹 Hands-on experience in **Verilog HDL**, **Digital Logic Design**, **FPGA Development**, and **RTL Design** using industry-standard EDA tools.
 
-🌱 Currently learning **SystemVerilog** and Digital Verification concepts
+🌱 Currently expanding my expertise in **SystemVerilog**, **Digital Verification**, and modern **ASIC Design & Verification** methodologies.
 
-💼 Completed internships in **IoT & Embedded Systems** and **AI/ML**
+💼 Completed internships in **IoT & Embedded Systems** and **Artificial Intelligence & Machine Learning**, gaining practical experience in embedded hardware, cloud platforms, and intelligent systems.
 
-📜 Earned **Cadence certifications** in **Verilog** and **Digital IC Design**
+📜 Certified by **Cadence** in **Verilog Language & Applications**, **Digital IC Design Fundamentals**, and **Semiconductor 101**, strengthening my foundation in semiconductor design.
 
-💬 Ask me about **Verilog, Digital Logic, RTL Design, and IoT**
+💬 Interested in discussions on **Verilog, RTL Design, Digital Logic, FPGA Development, VLSI, and Embedded Systems**.
 
 📫 **Email:** `naveensaichalla@gmail.com`
+
 
 </td>
 </tr>
